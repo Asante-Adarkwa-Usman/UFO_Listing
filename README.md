@@ -57,7 +57,6 @@ com.ghost.ufosightingsapp/
 ├── vm/              # ViewModel and state management
 ├── res/
 │   ├── drawable/    # UFO icons for blob and lampshade
-│   └── screenshots/ # UI screenshots
 └── MainActivity.kt  # App entry point
 ```
 
