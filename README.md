@@ -1,6 +1,6 @@
 # UFO Sightings App
 
-A basic Android application built with **Jetpack Compose** and **MVVM architecture**. This app displays a list of UFO sightings with functionality to add and remove entries. It's designed to demonstrate clean architecture and UI polish based on a provided iOS design spec.
+A basic Android application built with **Jetpack Compose** and **MVVM architecture**. This app displays a list of UFO sightings with functionality to add and remove entries. It's designed to demonstrate clean architecture and UI polish based on a provided Android design spec.
 
 ---
 
